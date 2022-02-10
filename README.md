@@ -4,13 +4,13 @@
     <td>  
 
 **I’m currently working on:**
-- **Titanfall 2** Northstar **mods** with **Squirrel**
+- **Titanfall 2** Northstar **mods** with **Squirrel**              
 - Some data analysis with **Python**
       
 **My Languages:**  
 ![c#](https://img.shields.io/badge/C%23-4287f5?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Squirrel](https://img.shields.io/badge/Sqirrel-FFD43B?style=for-the-badge&logo=simple_nut.png&logoColor=brown)
+![Squirrel](squirrel_badge.png)
       
 **Support me**  
 [![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/takyon_scure)
