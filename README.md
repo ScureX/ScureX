@@ -10,7 +10,7 @@
 **My Languages:**  
 ![c#](https://img.shields.io/badge/C%23-4287f5?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<img src="squirrel_badge.png" alt="Squirrel" width="90"/>
+<img src="squirrel_badge_.png" alt="Squirrel" width="90"/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)      
       
 **Support me :)**  
