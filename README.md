@@ -1,11 +1,13 @@
 ## Heya 👋
+Find me here: [takyon.ml](https://takyon.ml)
 <table>
   <tr>
     <td width=50%>  
 
 **I’m currently working on:**
 - <img src="ns_logo.png" alt="NS logo" width="20"/>  **Titanfall 2** Northstar **mods** with **Squirrel**              
-- 👨‍💻 Some data analysis with **Python**
+- 👨‍💻 Learning **Reverse Engineering** 
+- 📖 Learning **C++**
       
 **My Languages:**  
 ![c#](https://img.shields.io/badge/C%23-4287f5?style=for-the-badge&logo=c-sharp&logoColor=white)
