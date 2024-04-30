@@ -1,5 +1,5 @@
 ## Heya 👋
-Find me here: [takyon.rip](https://takyon.rip)
+Find me here: [takyon.rip](https://takyon.cc)
 <table>
   <tr>
     <td width=50%>  
